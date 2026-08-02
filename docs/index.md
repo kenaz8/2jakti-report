@@ -7,11 +7,11 @@ hero:
   tagline: "리그 오브 레전드 클랜원들의 전술적 뇌절과 승리 공식을 파헤칩니다."
   actions:
     - theme: brand
-      text: "📊 60게임 종합 분석 읽기"
-      link: /clan-profile
+      text: "🔥 최근 80경기 분석 읽기"
+      link: /report80
     - theme: alt
-      text: "🚨 역전 불가 성향 진단서"
-      link: /comeback-inability
+      text: "📊 60게임 종합 분석"
+      link: /clan-profile
 
 features:
   - icon: 🛡️
