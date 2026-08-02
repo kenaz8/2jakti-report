@@ -9,21 +9,13 @@ export default {
     },
     nav: [
       { text: "홈으로", link: "/" },
-      { text: "🔥 최근 80경기 분석", link: "/20260803옵젝서폿" },
-      { text: "📊 60경기 종합 분석", link: "/clan-profile" }
+      { text: "🔥 최근 80경기 분석", link: "/20260803옵젝서폿" }
     ],
     sidebar: [
       {
-        text: "📊 종합 전적 리포트",
+        text: "🏆 2작티 전술 분석 아카이브",
         items: [
-          { text: "🔥 최근 80경기 최신 동향 분석", link: "/20260803옵젝서폿" },
-          { text: "60게임 클랜 종합 분석", link: "/clan-profile" }
-        ]
-      },
-      {
-        text: "🚨 심화 전술 진단",
-        items: [
-          { text: "235게임 역전 불가 성향 진단", link: "/comeback-inability" }
+          { text: "🔥 최근 80경기 최신 동향 분석", link: "/20260803옵젝서폿" }
         ]
       }
     ],
