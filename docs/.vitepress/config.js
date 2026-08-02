@@ -4,8 +4,8 @@ export default {
   description: "리그 오브 레전드 2작티 클랜 공식 전술 아카이브",
   themeConfig: {
     outline: {
-      level: [2, 3],
-      label: "📌 질문 및 분석 목차"
+      level: 2,
+      label: "📌 2작티 전술 분석 목차"
     },
     nav: [
       { text: "홈으로", link: "/" },
