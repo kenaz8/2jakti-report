@@ -24,11 +24,11 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 22
-      - name: Install dependencies
-        run: npm ci || npm install
+          node-version: 20
+      - name: Install VitePress
+        run: npm install vitepress
       - name: Build with VitePress
-        run: npm run docs:build
+        run: npx vitepress build docs
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
