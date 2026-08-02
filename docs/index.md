@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: "🔥 최근 80경기 분석 읽기"
-      link: /report80
+      link: /20260803옵젝서폿
     - theme: alt
       text: "📊 60게임 종합 분석"
       link: /clan-profile
