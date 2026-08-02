@@ -1,6 +1,6 @@
 * **📊 종합 전적 리포트**
   * [🔥 최근 80경기 최신 동향 분석](20260803옵젝서폿.md)
-  * [📊 60게임 클랜 종합 분석](clan-profile.md)
+  * [📊 60게임 클랜 종합 분석](docs/clan-profile.md)
 
 * **🚨 심화 전술 진단**
-  * [🚨 235게임 역전 불가 성향 진단](comeback-inability.md)
+  * [🚨 235게임 역전 불가 성향 진단](docs/comeback-inability.md)
