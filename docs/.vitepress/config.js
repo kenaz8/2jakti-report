@@ -9,14 +9,14 @@ export default {
     },
     nav: [
       { text: "홈으로", link: "/" },
-      { text: "🔥 최근 80경기 분석", link: "/report80" },
+      { text: "🔥 최근 80경기 분석", link: "/20260803옵젝서폿" },
       { text: "📊 60경기 종합 분석", link: "/clan-profile" }
     ],
     sidebar: [
       {
         text: "📊 종합 전적 리포트",
         items: [
-          { text: "🔥 최근 80경기 최신 동향 분석", link: "/report80" },
+          { text: "🔥 최근 80경기 최신 동향 분석", link: "/20260803옵젝서폿" },
           { text: "60게임 클랜 종합 분석", link: "/clan-profile" }
         ]
       },
