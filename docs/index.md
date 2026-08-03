@@ -7,11 +7,8 @@ hero:
   tagline: "리그 오브 레전드 클랜원들의 전술적 뇌절과 승리 공식을 파헤칩니다."
   actions:
     - theme: brand
-      text: "🔥 최근 80경기 분석 읽기"
+      text: "🔥 오브젝트와 승률, 그리고 서포터 픽에 대해서 (2026.08.03)"
       link: /20260803옵젝서폿
-    - theme: alt
-      text: "📊 60게임 종합 분석"
-      link: /clan-profile
 
 features:
   - icon: 🛡️
